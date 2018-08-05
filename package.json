@@ -1,0 +1,22 @@
+{
+    "name": "reponsiveportfoliowebsite",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aubreyjcook/reponsivePortfolioWebsite.git"
+    },
+    "author": "Aubrey J Cook",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aubreyjcook/reponsivePortfolioWebsite/issues"
+    },
+    "homepage": "https://github.com/aubreyjcook/reponsivePortfolioWebsite#readme",
+    "dependencies": {
+        "node-sass": "^4.9.2"
+    }
+}
